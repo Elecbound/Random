@@ -1,2 +1,2 @@
 #Pretty Much
-print('Pretty Much');
+print('Pretty Much')
